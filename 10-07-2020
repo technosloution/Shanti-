@@ -1,0 +1,8 @@
+.rera_bg {
+    background:url(../img/projects/santam.jpeg);
+	background-size: cover;
+}
+.saamarth_bg{
+	background:url(../img/projects/bunglows.jpg);
+	background-size: cover;
+}

@@ -1,0 +1,13 @@
+.row>ul li {
+  display: inline-block;
+  margin: 0 10px;
+  cursor:pointer;
+  font-size: 20px;
+  font-weight: 700;
+  color: #2d2d2d;
+  border-bottom: 1px solid #2d2d2d;
+  margin-bottom: 50px;
+}
+.row >ul li:hover {
+	color:#006dc2;
+}

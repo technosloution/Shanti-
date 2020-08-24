@@ -1,0 +1,311 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1280px) and (max-width: 1449px) {
+.Sarthak-Heaven h4{
+bottom: 58px;
+}
+.masonry-item-overlay ul li{
+line-height:20px	
+}
+.masonry-item-overlay ul{
+bottom:0	
+}
+}
+@media (min-width: 360px) and (max-width: 640px) {
+.customfile-upload{
+top: -13px;
+    position: relative;	
+}
+button.customfile-upload{
+font-size:13px	
+}
+}
+/*320 - 767*/
+@media screen and (max-width: 767px) {
+#SCBbuttonMain{
+display:none !important;	
+}
+.footer2{
+width:100%;	
+}
+.footer3{
+width:100%;	
+}
+.footer4{
+width:100%;	
+}
+.footer5{
+width:100%;		
+}
+.navbar-logo img {
+    max-width: 13%;
+	top:8px;
+	left:10px
+}
+.navbar-nav{
+margin-top:0	
+}
+.navbar-custom .navbar-links-custom li:hover .icon::after{
+display:none;	
+}
+.page-title{
+padding:50px 0	
+}
+.section-block{
+padding:60px 0	
+}
+
+
+.mob-sub-menu li a{
+color:#333 !important	
+}
+.contact-box-icon{
+	margin: 0px 0 30px;
+}
+.contact-info{
+margin:0	
+}
+.navbar-default .navbar-links-custom .open .dropdown-menu > li > a{
+color:#fff;
+padding: 2px 0 7px 10px;	
+}
+.navbar-links-custom .dropdown ul{
+padding:0	
+}
+.mob-left-project-title{
+left:0;
+margin-top: 5%;
+margin-bottom: 7%;
+	
+}
+
+.left-project-title{
+left:0;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.project-title h2{
+font-size:20px;	
+}
+.project-status{
+font-size:15px;	
+}
+.masonry-item-overlay ul{
+bottom:0	
+}
+.masonry-item-overlay ul li{
+line-height:16px	
+}
+.masonry-item-overlay h4{
+font-size:14px;
+bottom:65px	
+}
+#emicalculatorinnerform{
+padding:10px 10px !important;	
+}
+.resp-tabs-list{
+display:none	
+}
+.section-heading h3{
+font-size:20px;	
+}
+#about_us{
+padding-top:100px	
+}
+.fancybox-title-float-wrap .child{
+font-size:11px;	
+}
+.mob-none{
+display:none;	
+}
+.res-top{
+margin-top:0	
+}
+.blog-modern:last-child{
+margin-bottom:10px;	
+}
+footer .footer-title h2:after{
+	 width: 8%;
+    height: 2px;
+}
+/*.home-about-img{
+left:0	
+}*/
+.mob-view{
+display:block;	
+}
+.desktop-view{
+display:none;	
+}
+.mob-transform-none{
+transform:none !important	
+}
+.image-top{
+top:0	
+}
+footer img{
+max-width:30%	
+}
+footer{
+padding:30px 0 20px;	
+}
+.section-heading h2{
+margin-left:20px;	
+}
+.affix{
+position:relative	
+}
+.page-title {
+	background-color: #1d1d1d;
+	background-image:none;
+	
+}
+}
+@media (min-width: 640px) and (max-width: 719px) {
+.navbar-logo img{
+max-width:7%	
+}
+.top-article-icon{
+text-align:left;
+width:17%	
+}
+.top-article-content{
+float:none;
+}
+.contact-icon{
+width:12%	
+}
+footer img{
+max-width:19%	
+}
+.scroll-to-top{
+bottom:15px	
+}
+.page-title {
+	background-color: #1d1d1d;
+	background-image:none;
+	
+}
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+	.resp-tabs-list .gold{
+		width:33%
+	}
+	.resp-tabs-list{
+	margin-top:-115px	
+	}
+	.top-article-icon{
+	text-align:left	
+	}
+	.project-title h2{
+	font-size:20px	
+	}
+	.project-status{
+	font-size:16px	
+	}
+	.services-block{
+	margin-bottom:20px;	
+	}
+	.footer1{
+	width:50%;
+	margin-bottom:30px;	
+	}
+	.footer2{
+	width:50%;
+	margin-bottom:30px;		
+	}
+	.footer3{
+	width:50%;
+	margin-bottom:30px;		
+	}
+	.footer4{
+	width:50%;
+	margin-bottom:30px;		
+	}
+	footer img {
+    max-width: 37%;
+}
+.scroll-to-top{
+	    right: 35px;
+}
+.left-project-title{
+left:0	
+}
+#SCBbuttonMain{
+display:none !important	
+}
+.navbar-links-custom .dropdown ul li a{
+color:#fff;
+padding: 10px 5px;	
+}
+.navbar-custom .navbar-links-custom li:hover .icon::after{
+display:none;	
+}
+.masonry-item-overlay h4{
+bottom:80px;
+font-size:13px;	
+}
+.masonry-item-overlay ul li{
+line-height:13px;
+font-size:11px;	
+}
+.masonry-item-overlay{
+padding-left:10px;
+padding-right:10px;	
+}
+.page-title {
+	background-color: #1d1d1d;
+	background-image:none;
+	
+}
+.resp-tabs-list{
+display:none;	
+}
+}
+@media (min-width: 720px) and (max-width: 735px){
+.resp-tabs-list{
+display:none;	
+}	
+}
+@media (min-width: 736px) and (max-width: 767px){
+.resp-tabs-list{
+display:none;	
+}
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+.navbar-nav{
+right:30px;	
+}
+#SCBbuttonMain{
+display:none !important	
+}
+.footer1{
+width:20%	
+}
+.footer4 {
+    width: 31%;
+}
+.project-title h2{
+font-size:20px;	
+}
+.left-project-title{
+left:17px	
+}
+.outline-bordered-left:after{
+left:33px;	
+}
+.masonry-item-overlay h4{
+bottom:66px;
+font-size:13px;	
+}
+.masonry-item-overlay ul li{
+line-height:13px;
+font-size:11px;	
+}
+.page-title {
+	background-color: #1d1d1d;
+	background-image:none;
+	
+}
+}
